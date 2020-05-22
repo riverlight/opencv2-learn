@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerWorkingDirectory>C:\workroom\testroom\eye\magic\youbing</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>dog.jpg 88.avi 15  "277 532 137 154 eye-2.txt 0" "549 495 137 154 eye-2.txt 0" "455 909 154 86 png-1.txt 7" "100 1310 800 80 png-4.txt" "252 517 508 508 png-3.txt 7" "159 268 645 645 png-2.txt 7" "159 209 645 645 png-5.txt 0"</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerWorkingDirectory>C:\workroom\testroom\eye\magic\yulujunzhan</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>dd.jpg 88.avi 17  "42 690 209 188 eye-2.txt 0" "363 584 209 188 eye-2.txt 0" "219 1106 170 95 png-1.txt 14" "100 1270 800 80 png-4.txt" "-88 570 744 744 png-3.txt 14" "-211 254 953 953 png-2.txt 14" "-211 213 953 953 png-5.txt 0"</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+</Project>
