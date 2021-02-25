@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cartoon", "cartoon\cartoon.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kb_tt", "kb_tt\kb_tt.vcxproj", "{BDAD20D8-7AE3-4103-88E7-5B189694FCFD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "y4m-2-avi", "y4m-2-avi\y4m-2-avi.vcxproj", "{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Mixed Platforms = Debug|Mixed Platforms
@@ -417,6 +419,18 @@ Global
 		{BDAD20D8-7AE3-4103-88E7-5B189694FCFD}.Release|Win32.Build.0 = Release|Win32
 		{BDAD20D8-7AE3-4103-88E7-5B189694FCFD}.Release|x64.ActiveCfg = Release|x64
 		{BDAD20D8-7AE3-4103-88E7-5B189694FCFD}.Release|x64.Build.0 = Release|x64
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Debug|Win32.Build.0 = Debug|Win32
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Debug|x64.ActiveCfg = Debug|x64
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Debug|x64.Build.0 = Debug|x64
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Release|Win32.ActiveCfg = Release|Win32
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Release|Win32.Build.0 = Release|Win32
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Release|x64.ActiveCfg = Release|x64
+		{C10115D8-CD6D-4BB7-BCA5-D89D481EA7EB}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
