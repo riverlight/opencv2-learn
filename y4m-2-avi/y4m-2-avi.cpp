@@ -66,6 +66,7 @@ int Get_Y4mInfo(char* szY4m, Y4mInfo* pInfo)
 	}
 	int cur_pos = input.tellg();
 	pInfo->_headeroffset = cur_pos - 6;
+	cout << pInfo->_headeroffset << endl;
 	
 	input.close();
 	return 0;

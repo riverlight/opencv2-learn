@@ -149,11 +149,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ace.cpp" />
     <ClCompile Include="enhance.cpp" />
     <ClCompile Include="hdr.cpp" />
+    <ClCompile Include="hir.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ace.h" />
     <ClInclude Include="hdr.h" />
+    <ClInclude Include="hir.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
